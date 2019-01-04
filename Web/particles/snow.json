@@ -1,0 +1,31 @@
+{
+  "particles": {
+    "number": {
+      "value": 500
+    },
+    "color": {
+      "value": "#0af6ff"
+    },
+    "shape": {
+      "type": "circle"
+    },
+    "size": {
+      "value": 10,
+      "random": true
+    },
+    "line_linked": {
+      "enable": true,
+      "distance": 75,
+      "color": "#fff76d",
+      "opacity": 88,
+      "width": 2
+    },
+    "move": {
+      "enable": true,
+      "speed": 10,
+      "direction": "none",
+      "straight": false,
+      "out_mode": "out"
+    }
+  }
+}
