@@ -1,10 +1,7 @@
 jQuery(document).ready(function() {
   var type = new Typed('#type', {
     strings: [
-      'FUN FUN FUN FUN',
-      'FUN FUN FUN FUN',
-      'FUN FUN FUN FUN',
-      'FUN FUN FUN FUN',
+      'FUN',
       'LOTS OF FUN FUN',
       'ISN"T THIS  FUN'
     ],
@@ -25,7 +22,7 @@ jQuery(document).ready(function() {
   });
   var title2 = new Typed('#cardTitle2', {
     strings: [
-      'ROBLOX, with blocks',
+      'ROBLOX',
     ],
     typeSpeed: 30,
     backSpeed: 50,
@@ -35,7 +32,7 @@ jQuery(document).ready(function() {
   });
   var title3 = new Typed('#cardTitle3', {
     strings: [
-      'Clocks!',
+      'The house with a colck in its walls',
     ],
     typeSpeed: 30,
     backSpeed: 50,
@@ -55,7 +52,7 @@ jQuery(document).ready(function() {
   });
   var title5 = new Typed('#cardTitle5', {
     strings: [
-      'Bomb ninja',
+      'fruit ninja',
     ],
     typeSpeed: 30,
     backSpeed: 50,
@@ -65,7 +62,7 @@ jQuery(document).ready(function() {
   });
   var title6 = new Typed('#cardTitle6', {
     strings: [
-      'MEMES OF POTATOS',
+      'memes',
     ],
     typeSpeed: 30,
     backSpeed: 50,
